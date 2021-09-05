@@ -13,3 +13,6 @@ htmlcov/
 *.py[cdo]
 .hypothesis/
 target/
+.cargo/
+.pybuild/
+vendor/

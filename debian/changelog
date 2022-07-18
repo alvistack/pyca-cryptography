@@ -1,0 +1,5 @@
+python-cryptography (100:36.0.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pyca/cryptography/releases/tag/36.0.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Mon, 22 Nov 2021 12:21:06 +0800

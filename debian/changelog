@@ -1,0 +1,5 @@
+python-cryptography (100:38.0.3-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pyca/cryptography/releases/tag/38.0.3
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 02 Nov 2022 14:15:55 +0800

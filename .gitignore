@@ -14,3 +14,6 @@ htmlcov/
 .hypothesis/
 target/
 .rust-cov/
+.cargo/
+.pybuild/
+vendor/

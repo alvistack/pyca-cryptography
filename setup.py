@@ -53,7 +53,7 @@ try:
             RustExtension(
                 "cryptography.hazmat.bindings._rust",
                 "src/rust/Cargo.toml",
-                py_limited_api=True,
+                py_limited_api="auto",
                 rust_version=">=1.56.0",
             )
         ],

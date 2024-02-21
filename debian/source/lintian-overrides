@@ -1,0 +1,6 @@
+python-cryptography source: file-without-copyright-information
+python-cryptography source: no-debian-changes
+python-cryptography source: source-contains-prebuilt-windows-binary
+python-cryptography source: source-is-missing
+python-cryptography source: source-package-encodes-python-version
+python-cryptography source: unpack-message-for-orig

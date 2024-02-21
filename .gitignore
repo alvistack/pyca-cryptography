@@ -16,3 +16,6 @@ target/
 .rust-cov/
 *.lcov
 *.profdata
+.cargo/
+.pybuild/
+vendor/
